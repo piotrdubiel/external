@@ -2,13 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>BackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg70dWj+D9FWmPoPB4J4+AIY=
-	</data>
 	<key>Command</key>
-	<string>bash ~/external/time.sh</string>
+	<string>bash ~/external/ip.sh</string>
 	<key>DropShadow</key>
 	<false/>
 	<key>FailureImage</key>
@@ -103,19 +98,15 @@
 	<key>FontFamily</key>
 	<string>GillSans-Light</string>
 	<key>FontSize</key>
-	<real>144</real>
+	<real>36</real>
 	<key>GeekletFrame</key>
-	<string>{{449, 508}, {521, 158}}</string>
+	<string>{{520, 340}, {398, 46}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.shell</string>
-	<key>KeepOnTop</key>
-	<false/>
 	<key>Name</key>
-	<string>time</string>
-	<key>RefreshInterval</key>
-	<integer>15</integer>
+	<string>ip</string>
 	<key>SetLocale</key>
 	<true/>
 	<key>SuccessImage</key>
@@ -212,7 +203,7 @@
 	<key>TextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgzFvED+DMW8QP4MxbxA/AYY=
+	ZmZmg8IHBz+DwgcHP4PCBwc/AYY=
 	</data>
 	<key>TextStrikethrough</key>
 	<integer>0</integer>
